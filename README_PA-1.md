@@ -6,6 +6,8 @@
 
 **Programming Assignment 1**
 
+![image](https://user-images.githubusercontent.com/123665839/223918162-43ec38a7-fd1d-4ec4-bcc1-838a422d5484.png)
+
 **Setup Instructions:**
 
 Java SE Development Kit 15 - https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html#license-lightbox

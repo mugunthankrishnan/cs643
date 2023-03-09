@@ -1,0 +1,5 @@
+org/carrecognition/App.class
+org/carrecognition/GetImages.class
+org/carrecognition/SendImageToQueue.class
+org/carrecognition/GetImageLabels.class
+org/carrecognition/DependencyFactory.class

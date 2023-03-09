@@ -1,0 +1,5 @@
+org/carrecognition/TextRecognition.class
+org/carrecognition/App.class
+org/carrecognition/FileCreate.class
+org/carrecognition/DependencyFactory.class
+org/carrecognition/ReceieveMessageFromQueue.class

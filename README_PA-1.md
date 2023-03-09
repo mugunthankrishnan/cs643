@@ -14,6 +14,16 @@ Java SE Development Kit 15 - https://www.oracle.com/java/technologies/javase/jdk
 
 Apache Maven 4.0.0 - https://dlcdn.apache.org/maven/maven-4/4.0.0-alpha-4/source/apache-maven-4.0.0-alpha-4-src.tar.gz
 
+**ssh -i "~/.ssh/key_file.pem" ec2-user@public_DNS_address_of_the_instance**
+
+**WinSCP to move files between local machine and EC2 instance**
+1. Protocol: SFTP.
+2. Port Number: 22.
+3. Hostname: <Public_DNS_of_the_instance>
+4. Username: ec2-user
+5. Password: Leave empty
+6. In the Advanced Settings, under Authentication, add the Public key file in the .ppk format.
+
 **Install JDK using the following command in terminal-**
 
 **sudo yum install <jdk_file.rpm>**

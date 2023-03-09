@@ -17,6 +17,7 @@ public class FileCreate{
             for(String text : fileData){
                 myWriter.write(text);
             }
+            System.out.println("File successfully created in the path: " + fileName);
             myWriter.close();
         }
         catch (IOException e) {
